@@ -1,0 +1,24 @@
+{
+  "name": "api-captcha-unofficial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielsalles/api-captcha-unofficial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielsalles/api-captcha-unofficial/issues"
+  },
+  "homepage": "https://github.com/danielsalles/api-captcha-unofficial#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "lodash": "^4.17.4",
+    "ramda": "^0.24.1"
+  }
+}
